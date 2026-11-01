@@ -1,15 +1,17 @@
-.container {
-    /* width, padding, margin */
+article p {
+    line-height: 1.7;
 }
 
-.container {
-    /* images width */
+figure img {
+    width: 100%;
+    height: auto;
 }
 
-.bi {
-   font-size:3em;
- }
+a:link {
+    color: #0d6efd;
+}
 
-.icons .col-md-4 {
-   text-align: center;
- }
+a:hover {
+    color: #084298;
+    text-decoration: underline;
+}
